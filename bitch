@@ -1,0 +1,6 @@
+import pyautogui
+time.sleep(4)
+while True:
+auto.write('fuck you nigger')
+auto.press('enter')
+time.sleep(3)
