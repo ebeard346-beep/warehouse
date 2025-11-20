@@ -1,0 +1,7 @@
+import pyzytogui as auto
+import time
+time.sleep (4)
+while true:
+auto.write ('fuck you')
+auto.press (enter)
+time.sleep (3)
